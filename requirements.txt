@@ -1,0 +1,16 @@
+# Command to install:
+# pip3 install -r requirements.txt
+
+# Standard
+numpy==1.26.2
+pandas==2.1.4
+scipy==1.11.4
+pytest==7.4.4
+
+# Data viz
+matplotlib==3.8.2
+seaborn==0.13.0
+statsmodels==0.14.1 # To use statistical models with Seaborn
+
+# Machine Learning
+scikit-learn==1.3.2
